@@ -1,5 +1,5 @@
-layout: page
-title: "PAGE-NAME"
-permalink: /about/contact/
-
 # Here goes my text ...
+
+It is just plain markdown
+
+I don't have to care about the theme ...
